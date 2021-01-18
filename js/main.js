@@ -10,7 +10,7 @@ const init = () => {
             let html = `
 
                 <div class="col-md-4">
-                    <div class="card" style="width: 18rem;">
+                    <div class="card" style="">
                     <img src="${items.imagen_web}" class="card-img-top" alt="${items.ref}">
                         <div class="card-body">
                             <p class="card-text">
