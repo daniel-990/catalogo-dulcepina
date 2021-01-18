@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+body{
+    /* font-family: 'Pacifico', cursive !important; */
+    /* font-family: 'Amatic SC', cursive !important; */
+}
+.fuente1{
+    font-family: 'Amatic SC', cursive !important;
+}
+.icono-pagina{
+    width: 48px;
+}
+.menu-pagina{
+    background-color: #e35d6a !important;
+    margin-bottom: 0px !important;
+}
+.nav-item a{
+    color:white !important;
+    font-size: 24px;
+    font-family: 'Amatic SC', cursive !important;
+}
+.nav-item a:hover{
+    background-color: #dc3545;
+    border-radius: 10px;
+}
+
+.imagen_banner{
+    background-image: url('../img/fondo3.jpg');
+    width: 100%;
+    height: 300px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.contenedor_{
+    padding-top: 32px;
+}
+.titulo{
+    padding-bottom: 10px;
+    font-size: 70px;
+}
+
+.hr{
+    background-color: #e35d6a;
+    border: 2px solid red;
+    width: 10%;
+    margin: 0px auto;
+    margin-bottom: 30px;
+}
+
+.contenedor-redes{
+    position: relative;
+    top: 10rem;
+    padding: 20px;
+}
+.titulo_redes{
+    font-family: 'Amatic SC', cursive !important;
+    font-size: 40px;
+    color:white;
+    text-shadow: 3px 3px 9px rgba(0,0,0,0.3);
+}
+.redes a{
+    margin-left: 10px;
+}
+.face{
+    color: #3b5998;
+    box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+    font-size: 40px;
+    border-radius: 20px;
+}
+.inst {
+	display: inline-block;
+	width: 40px;
+    height: 40px;
+    font-size: 30px;
+	text-align: center;
+	border-radius: 9px;
+	color: #fff;
+	/* vertical-align: middle; */
+	background: #d6249f;
+	background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+	box-shadow: 0px 3px 10px rgba(0,0,0,.25);
+    line-height: 1.4;
+    position: relative;
+    top: -3px;
+}
