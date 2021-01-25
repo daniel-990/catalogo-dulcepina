@@ -86,3 +86,29 @@ body{
     position: relative;
     top: -3px;
 }
+.contenedor-contacto{
+    padding: 50px;
+}
+.btn-enviar{
+    background-color: #e35d6a;
+    border: none;
+}
+.btn-enviar:hover{
+    background-color: #dc3545;
+}
+.fondo-contacto{
+    background-image: url('../img/fondo3.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+.contenido-pagina{
+    width: 99.1%;
+    position: relative;
+}
+
+.icono-wap-prendas{
+    font-size: 35px;
+    color: #25D366;
+}

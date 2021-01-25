@@ -10,10 +10,5 @@
     let lib = "<?php echo LIB; ?>";
 </script>
 <script src="./js/main.js"></script>
-<footer class="footer_">
-    <div class="sub-footer">
-        <p class="text-center"></p>
-    </div>
-</footer>
 </body>
 </html>

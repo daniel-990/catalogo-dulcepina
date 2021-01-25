@@ -11,7 +11,8 @@
         <h1 class="text-center titulo fuente1">Catalogo</h1>
         <hr class="hr">
         <div id="prendas" class="row">
-            <div id="cargando">
+            <div id="cargando" class="container">
+                <br>
                 <p style="text-align: center;">
                     <img src="./img/preloader.gif" alt="" style="width: 20%;">
                 </p>
